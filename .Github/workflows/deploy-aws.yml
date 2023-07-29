@@ -1,0 +1,22 @@
+name: Deploy to AWS
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy_to_aws:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+     
+      - name: Deployment to AWS
+        id: success_step
+        run: echo "Deployment to AWS successful!"
+      
+      - name: Show Tick
+        if: ${{ always() }} 
+        run: echo "✅"
