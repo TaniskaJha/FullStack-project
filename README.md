@@ -1,9 +1,4 @@
-
-
-
 # Symphony - Spotify Recommendation System
-
-![Symphony Logo](url/to/your/logo.png)
 
 Symphony is a Spotify recommendation system that suggests playlists and songs based on your interests. It is an end-to-end full-stack project that includes an Exploratory Data Analysis (EDA) web app, Spotify API integration, front-end built with React.js and Tailwind CSS, back-end developed with Flask, and model deployment.
 
@@ -11,7 +6,7 @@ Symphony is a Spotify recommendation system that suggests playlists and songs ba
 
 Check out the live demo: http://symmphonyai.s3-website.ap-south-1.amazonaws.com/
 
-![Symphony Preview](url/to/your/screenshot.png)
+![Symphony Preview](SYMPHONY.png)
 
 
 ## Features
@@ -25,7 +20,7 @@ Check out the live demo: http://symmphonyai.s3-website.ap-south-1.amazonaws.com/
 
 
 
-![Symphony Preview](url/to/your/screenshot.png)
+![Symphony Preview](pic.jpg)
 
 
 ## Technology Stack
