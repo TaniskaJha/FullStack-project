@@ -27,7 +27,7 @@ Check out the live demo: http://symmphonyai.s3-website.ap-south-1.amazonaws.com/
 
 - Front-End: React.js, Tailwind CSS
 - Back-End: Flask
-- Database: (mention the database you used, if applicable)
+- ML algorithms: K-means clustering, PCA
 - API: Spotify API
 - Deployment: Amazon Web Services (AWS), Docker
 
